@@ -1,0 +1,71 @@
+#container{
+	width:600px;
+	margin:0 auto;
+}
+
+div{
+	background-color: white;
+	margin: 10px;
+	padding: 10px;
+	border: solid 2px #ccd9ff;
+}
+
+h1, h3, span{
+	font-weight: bold;
+	text-align: center;
+}
+header h1{
+	font-size: 25px;
+	font-family: sans-serif;
+}
+
+p{
+	font-family:sans-serif;
+}
+
+.gems{
+	
+	width:373px;
+	height:75px;
+	margin-left:195px;
+	margin-top:5px;
+	position:absolute;
+	clear:both;
+}
+
+
+.numberToMatch{
+  width:145px;
+  margin-top:5px;
+}
+
+.winsAndLosses{
+  width:145px;
+  margin-top:2px;
+  clear:both;
+}
+
+.numberToMatch, .winsAndLosses{
+	float: left;
+	height: 20px;
+	background-color: orange;
+	font-family:sans-serif;
+}
+
+.userTotal{
+	
+	height: 40px;
+	background-color:yellow;
+	font-family:sans-serif;
+	margin-top:130px;
+}
+
+.gems{
+	clear: both;
+}
+
+.gemImage{
+	height: 60px;
+	margin: 10px;
+}
+
